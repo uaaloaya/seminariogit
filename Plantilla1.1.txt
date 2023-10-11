@@ -1,5 +1,5 @@
 Hola buenos días
 
-Mi nombre es Manuel
+Esta es mi segunda rama y estoy solo 
 
 Estoy haciendo un ejercicio de git muy sencillo e interesante
